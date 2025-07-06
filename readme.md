@@ -14,7 +14,7 @@ A small Python application demonstrating how to integrate with Ollama using its 
 ## 📦 Prerequisites
 
 - Python 3.8+
-- [Ollama CLI Tools](https://ollama.com/docs/guide/quickstart) installed and running locally
+- [Ollama models](https://ollama.com/search) installed and running locally
 - At least one Ollama model pulled (e.g. `ollama pull llama3.2`)
 
 ---
