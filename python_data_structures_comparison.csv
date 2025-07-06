@@ -1,0 +1,6 @@
+Structure,Declaration,Type,Mutable,Ordered,Allows Duplicates,Common Methods,Typical Use Case
+List,[] or list(),Sequence,Yes,Yes,Yes,"append(), pop(), remove(), sort()",Ordered collection
+Tuple,() or tuple(),Sequence,No,Yes,Yes,"count(), index()",Fixed collections
+Set,set() / {x},Set,Yes,No,No,"add(), remove(), union()","Membership testing, uniqueness"
+Frozenset,frozenset(),Set,No,No,No,"union(), intersection(), difference()","Immutable sets, keys in sets/dicts"
+Dict,{} or dict(),Mapping,Yes,Yes,"Keys: No, Values: Yes","get(), keys(), values(), pop()","Key-value store, fast lookups"
